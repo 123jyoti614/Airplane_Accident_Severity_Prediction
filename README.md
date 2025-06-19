@@ -1,3 +1,5 @@
+✈️ Airplane Accident Severity Prediction
+
 This machine learning project predicts the severity of airplane accidents based on various flight and inspection parameters. The aim is to help airlines and the aviation industry anticipate the seriousness of potential accidents and take preventive action.
 
 📁 Dataset
